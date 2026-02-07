@@ -34,6 +34,14 @@ const Experience = () => {
                   <p>Basic</p>
                 </div>
               </article>
+              <article>
+                <img src="checkmark.png" alt="Experience icon" class="icon"
+                />
+                <div>
+                  <h3>React</h3>
+                  <p>Basic</p>
+                </div>
+              </article>
             </div>
           </div>
 
@@ -62,6 +70,14 @@ const Experience = () => {
                 <div>
                   <h3>Git</h3>
                   <p>Experienced</p>
+                </div>
+              </article>
+              <article>
+                <img src="checkmark.png" alt="Experience icon" class="icon"
+                />
+                <div>
+                  <h3>MongoDB</h3>
+                  <p>Basic</p>
                 </div>
               </article>
             </div>
